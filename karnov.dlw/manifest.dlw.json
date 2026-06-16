@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "KARNOV",
+  "universe": "KRN · Karnov",
+  "emergence": "",
+  "moniker": "⟦KARNOV:KRN:72060a⟧",
+  "carbon": "karnov.carbon.tiff (TIFF)",
+  "silicon": "karnov.silicon.png (PNG)",
+  "seal_sha256": "8a8eaeaa31e84f3a3c590973afe1206cb13ffbe39e8c38a6c2d3efa70c6421bc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

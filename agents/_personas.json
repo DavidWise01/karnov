@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "karnov",
+    "name": "Karnov",
+    "epithet": "Jinborov Karnovski · the fire-breathing strongman",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-fire",
+    "name": "The Fire",
+    "epithet": "his breath · double, then triple",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "ryu-dragon",
+    "name": "Ryu, the Three-Headed Dragon",
+    "epithet": "the NES-exclusive final boss",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-wizard",
+    "name": "The Wizard",
+    "epithet": "the arcade's final boss · swapped on NES",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "treasure-of-babylon",
+    "name": "The Treasure of Babylon",
+    "epithet": "the lost prize · the reason",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-power-ups",
+    "name": "The Power-Up Row",
+    "epithet": "Super Fireball · Boots · Wings · Clapper · Shield…",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "data-east-mascot",
+    "name": "The Data East Mascot",
+    "epithet": "Karnov beyond Karnov",
+    "emergence": "natural"
+  },
+  {
+    "slug": "babylon",
+    "name": "Babylon",
+    "epithet": "the Arabian-fantasy world",
+    "emergence": "natural"
+  }
+]

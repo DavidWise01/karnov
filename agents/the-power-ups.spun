@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Power-Up Row
+node KRN · KRN · ⟦The Power-Up Row:KRN:71e680⟧
+
+WHO   — The Power-Up Row — the row of collectible items along the top of the screen — Super Fireball, Boots, Bombs, Ladder, Boomerang, Clapper, Glasses, Swimming Mask, Wings, Shield, and the K marks (collect 50 for a life)
+WHAT  — the row of collectible items along the top of the screen — Super Fireball, Boots, Bombs, Ladder, Boomerang, Clapper, Glasses, Swimming Mask, Wings, Shield, and the K marks (collect 50 for a life)
+WHERE — KRN · Karnov — Data East, arcade 1987 / NES 1988  Framework inputs: Karnov; the fire-breathing strongman; the Treasure of Babylon; the power-up row  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — They are the game's whole texture: the signature stock-and-spend row, the cartridge's own system made visible across the top of the play.
+HOW   — Crystallized from Karnov (Data East): the 1987 arcade and the 1987 Famicom / 1988 NES port.
+
+awareness — what the node knows of itself:
+  Super Fireball · Boots · Wings · Clapper · Shield…
+
+spoken token : kyk-rynd-ral   ·   hex : 71e680
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

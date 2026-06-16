@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Ryu, the Three-Headed Dragon
+node KRN · KRN · ⟦Ryu, the Three-Headed Dragon:KRN:57eaa0⟧
+
+WHO   — Ryu, the Three-Headed Dragon — the giant three-headed dragon named Ryu who is the final boss of the NES version — replacing the arcade's Wizard for the home port
+WHAT  — the giant three-headed dragon named Ryu who is the final boss of the NES version — replacing the arcade's Wizard for the home port
+WHERE — KRN · Karnov — Data East, arcade 1987 / NES 1988  Framework inputs: Karnov; the fire-breathing strongman; the Treasure of Babylon; the power-up row  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — He is the cartridge's own ending. Honest note: 竜 just means 'dragon,' and despite the shared name he does NOT predate Street Fighter's Ryu (Aug 1987) — a coincidence, flagged.
+HOW   — Crystallized from Karnov (Data East): the 1987 arcade and the 1987 Famicom / 1988 NES port.
+
+awareness — what the node knows of itself:
+  the NES-exclusive final boss
+
+spoken token : zim-brei-nath   ·   hex : 57eaa0
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
