@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 622
+slug  : karnov
+seal  : 8a8eaeaa31e84f3a3c590973afe1206cb13ffbe39e8c38a6c2d3efa70c6421bc
+prev  : 74abff08a812ce476a407a25f39e95dbab2aabd576eba9dce09b57384ccfdf11
+link  : 4c66f8da623d8ef7f09d023ed3e13901a301f6cb64435f0d6fc3713124128cc7
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
